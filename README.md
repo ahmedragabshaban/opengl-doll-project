@@ -1,4 +1,4 @@
-# opengl doll 3D project 
+# C++ opengl doll 3D project 
 opengl doll 3D project in c++ 
 the code in main.cpp and you can edit using any programm like CodeBlocks 
 and you can run and test project bin\Debug\pexam.exe
